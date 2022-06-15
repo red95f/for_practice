@@ -1,0 +1,19 @@
+daftar kebutuhan untuk konser kamar :
+
+Pemain Instrumen Gesek :
+1. 4 Pemain biola bagian 1
+2. 4 Pemain biola bagian 2
+3. 1 Pemain biola alto bagian 1
+4. 1 Pemain biola alto bagian 2
+5. 1 Pemain cello
+6. 1 Pemain kontra bass
+
+Pemain Instrumen Tiup :
+1. 2 Pemain flute
+2. 2 Pemain clarinet
+3. 1 Pemain horn
+4. 1 Pemain tuba
+
+Pemain Instrumen Perkusi :
+1. 1 Pemain timpani
+2. 1 Pemain piano
