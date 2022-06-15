@@ -5,10 +5,12 @@ Instrumen Gesek
 Biola 1 :
 1. kai
 2. ratna
+3. ment
 
 Biola 2 :
 1. tir
 2. marw
+3. ande
 
 Biola Alto 1 :
 1. utar
@@ -21,5 +23,12 @@ Cello :
 
 Kontra Bass :
 1. ndut
+
+
+Instrumen Tiup :
+
+Flute :
+1. basreng
+2. cam
 
 
