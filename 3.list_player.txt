@@ -6,17 +6,21 @@ Biola 1 :
 1. kai
 2. ratna
 3. ment
+4. tif
 
 Biola 2 :
 1. tir
 2. marw
 3. ande
+4. rie
 
 Biola Alto 1 :
 1. utar
+2. dudu
 
 Biola Alto 2 :
 1. aip
+2. waa
 
 Cello :
 1. gus
@@ -30,5 +34,9 @@ Instrumen Tiup :
 Flute :
 1. basreng
 2. cam
+
+Clarinet :
+1. tar
+2. ame
 
 
