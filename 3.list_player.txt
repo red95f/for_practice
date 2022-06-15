@@ -1,0 +1,25 @@
+daftar nama pemain yang akan bermain pada konser klasik
+
+Instrumen Gesek
+
+Biola 1 :
+1. kai
+2. ratna
+
+Biola 2 :
+1. tir
+2. marw
+
+Biola Alto 1 :
+1. utar
+
+Biola Alto 2 :
+1. aip
+
+Cello :
+1. gus
+
+Kontra Bass :
+1. ndut
+
+
